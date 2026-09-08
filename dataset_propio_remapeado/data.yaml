@@ -1,0 +1,5 @@
+train: images
+val: images
+
+nc: 7
+names: ['Carton', 'Papel', 'Vidrio', 'Metal', 'Plastico', 'Organico', 'Ordinario']
